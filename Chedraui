@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Chedraui - Nuevo centro de distribución</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>¡Conoce nuestro nuevo centro de distribución para una mejor experiencia de compra en línea!</h1>
+	</header>
+	<main>
+		<section class="hero-image">
+			<img src="C:\Users\osiri\OneDrive\Documentos\AMSL\UP\logo.png" 	
+<img src="C:\Users\osiri\OneDrive\Documentos\AMSL\UP\CEDIS.jpg" alt="Nuevo centro de distribución de Chedraui"><h2> <p class="caption">Nuestro nuevo centro de distribución está equipado con la última tecnología y un equipo de trabajadores altamente capacitados.</p>
+		</section>
+		<section class="benefits">
+			<h2>Con nuestro nuevo centro de distribución, podrás disfrutar de:</h2>
+			<ul>
+				<li>Mayor rapidez en la entrega de tus pedidos.</li>
+				<li>Mayor eficiencia en nuestras operaciones.</li>
+				<li>Mayor satisfacción del cliente con una experiencia de compra en línea más fluida y sin preocupaciones.</li>
+			</ul>
+			<p>¡Haz tu pedido en línea hoy mismo y descubre lo fácil y rápido que es comprar en Chedraui!</p>
+			<a href="#" class="cta-button">Iniciar Encuesta</a>
+<head>
+    <title>Chedraui - Nuevo centro de distribución</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Reglas CSS existentes */
+    </style>
+    <script>
+        function iniciarEncuesta() {
+            window.open("https://es.surveymonkey.com/r/LYRVCTP", "_blank");
+        }
+
+        var ctaButton = document.querySelector(".cta-button");
+        ctaButton.addEventListener("click", iniciarEncuesta);
+    </script>
+</head>
+		</section>
+	</main>
+	<footer>
+		<p>&copy; 2023 Chedraui. Todos los derechos reservados.</p>
+	</footer>
+</body>
+</html>
+
+<style>
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #D8A200;
+	padding: 20px;
+}
+
+h1 {
+	font-size: 2.5em;
+	color: #fff;
+	margin: 0;
+	text-align: center;
+}
+
+.main {
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.hero-image {
+	position: relative;
+	margin-bottom: 50px;
+}
+
+.hero-image img {
+      display: block;
+      margin: 0 auto;	
+      width: 27%;
+	height: auto;
+}
+
+.caption {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	background-color: rgba(0, 0, 0, 0.5);
+	color: #fff;
+	padding: 10px;
+	width: 100%;
+	font-size: 1.5em;
+}
+
+.benefits h2 {
+	font-size: 2em;
+	margin-bottom: 20px;
+	color: #D8A200;
+	text-align: center;
+}
+
+.benefits ul {
+	list-style: none;
+	padding: 0;
+	margin-bottom: 30px;
+}
+
+.benefits li {
+	margin-bottom: 10px;
+}
+
+.cta-button {
+	display: block;
+	width: 200px;
+	margin: 0 auto;
+	padding: 10px;
+	background-color: #fff;
+	color: #D8A200;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 5px;
+	font-weight: bold;
+	font-size: 1.5em;
+	transition: background-color 0.2s ease-in-out;
+}
+
+.cta-button
